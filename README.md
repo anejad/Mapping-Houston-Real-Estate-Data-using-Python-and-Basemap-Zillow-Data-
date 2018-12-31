@@ -1,4 +1,4 @@
-# Mapping-Houston-Real-Estate-Data-using-Python-and-Basemap-Zillow-Data-
+# Mapping Houston Real Estate Data using Python and Basemap (Zillow Data)
 In this notebook I am going to use real estate historical price data downloaded from Zillow to visualize changes in single family residences within Houston area. 
 
 The data required for this notebook are:
