@@ -7,4 +7,6 @@ The data required for this notebook are:
 * cities_population_data.csv: US Census population data. This file used to compare Huston Population to other crities in US. This file is downloaded from [US Cenus Website](https://www.census.gov/data/tables/2017/demo/popest/total-cities-and-towns.html)
 
 Hope you enjoy it!
+
+
 ![alt text](https://github.com/anejad/Mapping-Houston-Real-Estate-Data-using-Python-and-Basemap-Zillow-Data-/blob/master/output.png)
